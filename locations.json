@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Lost Soul 1",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -175,
+      "y": 71,
+      "z": -1605
+    }
+  },
+  {
+    "name": "Lost Soul 2",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -177,
+      "y": 59,
+      "z": -1780
+    }
+  },
+  {
+    "name": "Lost Soul 3",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 324,
+      "y": 47,
+      "z": -2208
+    }
+  },
+  {
+    "name": "Lost Soul 4",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -2032,
+      "y": 44,
+      "z": -4827
+    }
+  },
+  {
+    "name": "Lost Soul 5",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -634,
+      "y": 100,
+      "z": -1089
+    }
+  },
+  {
+    "name": "Lost Soul 6",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -640,
+      "y": 45,
+      "z": -5318
+    }
+  },
+  {
+    "name": "Lost Soul 7",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -120,
+      "y": 36,
+      "z": -4796
+    }
+  },
+  {
+    "name": "Lost Soul 8",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 97,
+      "y": 74,
+      "z": -810
+    }
+  },
+  {
+    "name": "Lost Soul 9",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 850,
+      "y": 86,
+      "z": -2914
+    }
+  },
+  {
+    "name": "Lost Soul 10",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -680,
+      "y": 69,
+      "z": -3194
+    }
+  },
+  {
+    "name": "Lost Soul 11",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -2154,
+      "y": 55,
+      "z": -5123
+    }
+  },
+  {
+    "name": "Lost Soul 12",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -381,
+      "y": 57,
+      "z": -4809
+    }
+  },
+  {
+    "name": "Lost Soul 13",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1977,
+      "y": 59,
+      "z": -5585
+    }
+  },
+  {
+    "name": "Lost Soul 14",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -204,
+      "y": 28,
+      "z": -320
+    }
+  },
+  {
+    "name": "Lost Soul 15",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -297,
+      "y": 43,
+      "z": -1150
+    }
+  },
+  {
+    "name": "Lost Soul 16",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -693,
+      "y": 63,
+      "z": -967
+    }
+  },
+  {
+    "name": "Lost Soul 17",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 352,
+      "y": 31,
+      "z": -5397
+    }
+  },
+  {
+    "name": "Lost Soul 18",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 241,
+      "y": 68,
+      "z": -1559
+    }
+  },
+  {
+    "name": "Lost Soul 19",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 785,
+      "y": 91,
+      "z": -2167
+    }
+  },
+  {
+    "name": "Lost Soul 20",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 962,
+      "y": 125,
+      "z": -4487
+    }
+  },
+  {
+    "name": "Lost Soul 21",
+    "color": "#7cb0d9",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 79,
+      "y": 71,
+      "z": -359
+    }
+  },
+  {
+    "name": "Bounty Spirit 1",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -696,
+      "y": 44,
+      "z": -2738
+    }
+  },
+  {
+    "name": "Bounty Spirit 2",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -420,
+      "y": 10,
+      "z": -3270
+    }
+  },
+  {
+    "name": "Bounty Spirit 3",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1886,
+      "y": 35,
+      "z": -4237
+    }
+  },
+  {
+    "name": "Bounty Spirit 4",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 613,
+      "y": 142,
+      "z": -5591
+    }
+  },
+  {
+    "name": "Bounty Spirit 5",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1083,
+      "y": 92,
+      "z": -481
+    }
+  },
+  {
+    "name": "Bounty Spirit 6",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1345,
+      "y": 56,
+      "z": -4780
+    }
+  },
+  {
+    "name": "Bounty Spirit 7",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -350,
+      "y": 57,
+      "z": -389
+    }
+  },
+  {
+    "name": "Bounty Spirit 8",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 324,
+      "y": 113,
+      "z": -2170
+    }
+  },
+  {
+    "name": "Bounty Spirit 9, Below the Great Bridge, not in Wynnter Fair",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -371,
+      "y": 25,
+      "z": -759
+    }
+  },
+  {
+    "name": "Bounty Spirit 10",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1087,
+      "y": 38,
+      "z": -4090
+    }
+  },
+  {
+    "name": "Bounty Spirit 11",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 9,
+      "y": 118,
+      "z": -5565
+    }
+  },
+  {
+    "name": "Bounty Spirit 12",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1423,
+      "y": 73,
+      "z": -1986
+    }
+  },
+  {
+    "name": "Bounty Spirit 13",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1256,
+      "y": 75,
+      "z": -4525
+    }
+  },
+  {
+    "name": "Bounty Spirit 14",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 676,
+      "y": 30,
+      "z": -5323
+    }
+  },
+  {
+    "name": "Bounty Spirit 15",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 744,
+      "y": 56,
+      "z": -5148
+    }
+  },
+  {
+    "name": "Bounty Spirit 16",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -2266,
+      "y": 154,
+      "z": -3927
+    }
+  },
+  {
+    "name": "Bounty Spirit 17, Enter Death Realm at 367, 30, -4923",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 565,
+      "y": 17,
+      "z": -7608
+    }
+  },
+  {
+    "name": "Bounty Spirit 18",
+    "color": "#ff8800ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1130,
+      "y": 105,
+      "z": -352
+    }
+  }
+]
